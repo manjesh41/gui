@@ -1,5 +1,6 @@
 from tkinter import *
 root=Tk()
+root.title('using grid')
 #creating a lable widget
 my_lable=Label(root,text="Tkinter programming beginner")
 my_lable2=Label(root,text="my name is manjesh silwal")
